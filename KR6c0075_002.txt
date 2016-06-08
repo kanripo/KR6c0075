@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 25, No. 487
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6c0075_X_002-0254c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -375,7 +375,7 @@
 重者。謂各具一德。可尊可重。如舍利慧。目連通等。¶
 各稱第一是也。又經是無為。賢聖共依。故曰即為¶
 有佛。若尊重弟子。蒙引云。如益州新繁荀生者。指¶
-畵虗空以寫經。即成一片金剛地。至今慶雲時罩。¶
+畵虗空以寫經。即成一片金剛地。至今慶雲時[(ㄇ@(企-止))/卓]。¶
 雨不濕而草不生。此經殊勝。不信然乎。】¶
 
 「偈。尊重於二處因習證大體。」¶
